@@ -13,7 +13,8 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 67px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 67px;
+  font-family: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 	color: #ff0000; //test-branch update?
 }
 
